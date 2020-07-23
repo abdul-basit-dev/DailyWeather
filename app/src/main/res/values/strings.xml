@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DailyWeather</string>
+
+
+
+    <string name="change_city">Change city</string>
+
+    <string name="location_name">Islamabad, PK</string>
+    <string name="last_updated">Last update: Tue, 19 May 2020 21:18</string>
+    <string name="current_temperature">26</string>
+    <string name="day_of_week">Mon</string>
+
+
+    <string name="open_weather_maps_app_id">d8445df189a8badf6d75de516b9a1063</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="about_me">Some information about developer here…</string>
+    <string name="sunset_time">6:00</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">5:32</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16sp"
+    android:paddingRight="16sp"
+    android:paddingBottom="16sp"
+    android:paddingTop="16sp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/day_of_week"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="12sp"
+        android:text="@string/day_of_week"
+        android:textColor="@android:color/white"/>
+
+    <ImageView
+        android:id="@+id/weather_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/small_weather_icon"
+        android:layout_marginTop="4sp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/weather_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="4sp"
+        android:textSize="11sp"
+        android:text="@string/current_temperature"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/weather_result_small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="4dp"
+        android:textSize="8dp"
+        android:text="@string/current_temperature"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>
