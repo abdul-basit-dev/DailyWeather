@@ -7,13 +7,16 @@ Moreover , user can change city to preview weather of other cities.
 To display different weather conditions I used https://lottiefiles.com/ and grab some weather animations from here.
 The app also changes its day and night time based on sunset and sunrise value.
 ## Animated Splash Screen
-![Splash Screen](images/splashScreen.jpeg)
+
+<img src="images/splashScreen.jpeg" alt="Splash" width="200"/>
 
 ## Current Weather with 5 Days Forecast
-![Current Temperature](images/screenShot1.jpeg)
+
+<img src="images/screenShot1.jpeg" alt="CurrentWeather" width="200"/>
 
 ## Current Weather of searched city with 5 Days Forecast
 User can change city to check out weather of different cities.
-![Search City](images/screenshot2.jpeg)
+
+<img src="images/screenshot2.jpeg" alt="CityWeather" width="200"/>
 
 
